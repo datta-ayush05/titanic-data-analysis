@@ -15,4 +15,4 @@ This is my first data analysis project using Python and pandas, based on the Tit
 - **Week 2**: Custom functions, `map()`, `apply()`, and string operations
 - **Week 3**: Plan to explore basic ML models (Logistic Regression, Decision Trees)
 
-This repo is a live log of my growth as a data analyst. Stay tuned!
+This repo is a live log of my initial research and application of useful python libraries and modules in data interpretation 
